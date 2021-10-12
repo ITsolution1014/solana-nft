@@ -1,0 +1,164 @@
+{
+  "program": {
+    "uuid": "96dGXS",
+    "config": "96dGXSVS5j69rDTZGPrhGSxiAFvgShBZKAxyEcDg77rR"
+    candy machine pubkey: H5dyu2oDaQnjTYHoNDV1KSHGcG9d5MyBtTzan9JLHTWZ
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/prrUtLBW2akG1M1VgvFu1Nurn4hM8IbCfoqIDMwwDiE",
+      "name": "#0",
+      "onChain": true
+    },
+    "1": {
+      "link": "https://arweave.net/DEecNVRIXJMMe2agsL9AXkSjO3_fq4VOdYZ4Hxd440A",
+      "name": "#1",
+      "onChain": true
+    },
+    "2": {
+      "link": "https://arweave.net/frf6pnAyLDdiYhCkFODEUWbkIP6h_j_vFkOOkBGhFDo",
+      "name": "#2",
+      "onChain": true
+    },
+    "3": {
+      "link": "https://arweave.net/_ct_Imep0WqioufdXlelZLtRRuSMa2A1fGk-16AL1IA",
+      "name": "#3",
+      "onChain": true
+    },
+    "4": {
+      "link": "https://arweave.net/CO7EHoU7elMY7mliAcOgQis_9eaBz7eGS9Mun8LHv9I",
+      "name": "#4",
+      "onChain": true
+    },
+    "5": {
+      "link": "https://arweave.net/J6OqL87-4u0Mv1rLaB_o5-cW5SpAdrHPSTTbOMNVGj0",
+      "name": "#5",
+      "onChain": true
+    },
+    "6": {
+      "link": "https://arweave.net/kSXyTukqQ9P659Du9OYlAo07oe1KdpB7lDy1WeYErQc",
+      "name": "#6",
+      "onChain": true
+    },
+    "7": {
+      "link": "https://arweave.net/XBH5imFb2IKlaBapuYDNr2J4DbwvECWPFPVSZrouxmU",
+      "name": "#7",
+      "onChain": true
+    },
+    "8": {
+      "link": "https://arweave.net/pBESkzI2nsCIN14Gk61qf-etAqYG_1J8N2dBVHOuAhc",
+      "name": "#8",
+      "onChain": true
+    },
+    "9": {
+      "link": "https://arweave.net/qqcBvPdy789NVi6IjUtmN7AEjEg5sRtmtP8BiQ589NU",
+      "name": "#9",
+      "onChain": true
+    },
+    "10": {
+      "link": "https://arweave.net/uuCwGLE69fUaqPOtIweTVKnV6Gwu_Qj6lE6dh28dspk",
+      "name": "#10",
+      "onChain": true
+    },
+    "11": {
+      "link": "https://arweave.net/Iq2HqNYcaqMHl9FZo6_chcOSFhWgJrzuSXKANmVmfEk",
+      "name": "#11",
+      "onChain": true
+    },
+    "12": {
+      "link": "https://arweave.net/pI2FyV4aZuRugPj4W4lM0bQwFyrxBumXdz9yuKv3YrY",
+      "name": "#12",
+      "onChain": true
+    },
+    "13": {
+      "link": "https://arweave.net/cvxlzql3qBcPPRnvGcv561SnKeI9GWmZsSTjSkE8KpQ",
+      "name": "#13",
+      "onChain": true
+    },
+    "14": {
+      "link": "https://arweave.net/hbbSVybqHyZp3YGepoDKLV16ggMBrgQUj-Um8hGgzAk",
+      "name": "#14",
+      "onChain": true
+    },
+    "15": {
+      "link": "https://arweave.net/a2H98UPegfYql2PenO2lV3PkEKgIIyZo5IJpb4E3x6w",
+      "name": "#15",
+      "onChain": true
+    },
+    "16": {
+      "link": "https://arweave.net/dmgmi1gTaZkyFTuonz-o5oJHnKicAY8goiNf4pXvxQ4",
+      "name": "#16",
+      "onChain": true
+    },
+    "17": {
+      "link": "https://arweave.net/tvOcuHoYjJ7CUnih_u0dCWmc9F8rcDhmsR7TmhmKcQs",
+      "name": "#17",
+      "onChain": true
+    },
+    "18": {
+      "link": "https://arweave.net/_cjgqoVkWt1QTu3r1IWD23C1Yuum8LLun-l1qqVz6QI",
+      "name": "#18",
+      "onChain": true
+    },
+    "19": {
+      "link": "https://arweave.net/UeDnqkdekWy77cXTpKhIaeC8SQRGufCpmcz-AlcgpfM",
+      "name": "#19",
+      "onChain": true
+    },
+    "20": {
+      "link": "https://arweave.net/JGAcDyZESts-9cuSwYu8WNF5qnmnidNapp2drINb6Do",
+      "name": "#20",
+      "onChain": true
+    },
+    "21": {
+      "link": "https://arweave.net/l2g8SXW7PZ9ECL9mad0Jt0RwLYb2awI3YyPcoNj_2NA",
+      "name": "#21",
+      "onChain": true
+    },
+    "22": {
+      "link": "https://arweave.net/xCESkh1nhZOiPsukJibMJYI9HwWnoxYZLSVlpET4K0w",
+      "name": "#22",
+      "onChain": true
+    },
+    "23": {
+      "link": "https://arweave.net/XfzOYbxXmv3j_QdFi3bfzp5dYxiL3Y2m7xkR2oTjQ2s",
+      "name": "#23",
+      "onChain": true
+    },
+    "24": {
+      "link": "https://arweave.net/aFgolKCPHBdYQxxX4IPrbPf-kLENOpGSmdlDVkO-OgM",
+      "name": "#24",
+      "onChain": true
+    },
+    "25": {
+      "link": "https://arweave.net/YRE-ZFm6YvZ2KypOokTlIw9H6T-JKZjwyxz4AemZaac",
+      "name": "#25",
+      "onChain": true
+    },
+    "26": {
+      "link": "https://arweave.net/w3xGRl0kRBbTQjBhuDQAA2eTMBCIk2NlxHzXOepo2ts",
+      "name": "#26",
+      "onChain": true
+    },
+    "27": {
+      "link": "https://arweave.net/ieQ-YrtuB9mY7cDEeIB4p8ga0i95eUjJ50JV0W6iiso",
+      "name": "#27",
+      "onChain": true
+    },
+    "28": {
+      "link": "https://arweave.net/r6npjUIRTawDUJmtpmtIaIILBhg2loKM8JfmRliU0d8",
+      "name": "#28",
+      "onChain": true
+    },
+    "29": {
+      "link": "https://arweave.net/c_JBR8Rzl_mIEEr_1d-wlPtnEpCGis_0yoRFFQZi5TY",
+      "name": "#29",
+      "onChain": true
+    },
+    "30": {
+      "link": "https://arweave.net/BWrAjV9FvGInOcCtn8sVeh9EzWSzF2YIkKkz0B2BkXw",
+      "name": "#30",
+      "onChain": true
+    }
+  }
+}
